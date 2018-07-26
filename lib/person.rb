@@ -1,6 +1,7 @@
 # person.rb
 class Person
   
-  def 
+  def initialize 
+  end 
     
 end
